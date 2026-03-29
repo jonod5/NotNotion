@@ -1,3 +1,8 @@
+## My Contributions
+
+●	Designed a React UI with a custom rich-text editor, automated state persistence and instant data restoration
+●	Implemented a comprehensive search and indexing algorithms for efficient navigation through datasets
+
 # NotNotion
 
 A user-friendly note-taking app made for UCLA's CS35L class.
